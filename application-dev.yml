@@ -1,0 +1,3 @@
+app:
+  environment: development
+  message: This is test message to check the spring cloud config interms of dev properties file
