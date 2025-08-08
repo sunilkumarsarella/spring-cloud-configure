@@ -1,2 +1,3 @@
 app:
-  company: "Sample company from application yml file."
+  environment: default
+  message: This is test message to check the spring cloud config interms of default properties file
